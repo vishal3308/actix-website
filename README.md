@@ -36,7 +36,7 @@ vi connection_overview.mmd
 mmdc -i connection_overview.mmd -o connection_overview.svg
 ```
 
-# License
+# License (must read)
 
 Pretty murky. Right now a massive clone of the tokio website. Will get this
 figured out as we go along.
